@@ -10,7 +10,7 @@ class Config(object):
    
     # database config
     DATABASE_NAME = os.environ.get("DATABASE_NAME","cluster")     
-    DATABASE_URL = os.environ.get("DATABASE_URL","mongodb+srv://Kalki:Tabhi@cluster0.ssrpwsf.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+    DATABASE_URL = os.environ.get("DATABASE_URL","mongodb+srv://Konkati:Helpme@cluster0.2xb0nks.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 
     # other configs
     BOT_UPTIME = time.time()
