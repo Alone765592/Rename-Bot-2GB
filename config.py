@@ -105,9 +105,9 @@ class Txt(object):
 
 ❣️ 𝐷𝑜𝑛𝑎𝑡𝑖𝑜𝑛𝑠 𝑎𝑟𝑒 𝑟𝑒𝑎𝑙𝑙𝑦 𝑎𝑝𝑝𝑟𝑒𝑐𝑖𝑎𝑡𝑒𝑑 𝑖𝑡 ℎ𝑒𝑙𝑝𝑠 𝑖𝑛 𝑏𝑜𝑡 𝑑𝑒𝑣𝑒𝑙𝑜𝑝𝑚𝑒𝑛𝑡
 
-💖 𝐔𝐏𝐈 𝐈𝐃 : `TechifyRahul@UPI`
+💖 𝐔𝐏𝐈 𝐈𝐃 : `aloneboy765592@okicici`
 
-💗 𝐐𝐑 𝐂𝐨𝐝𝐞 : <b><a href='https://TechifyBots.github.io/PayWeb'>𝖢𝗅𝗂𝖼𝗄 𝖧𝖾𝗋𝖾</a></b>
+💗 𝐐𝐑 𝐂𝐨𝐝𝐞 : <b><a href='https://envs.sh/hLz.jpg'>𝖢𝗅𝗂𝖼𝗄 𝖧𝖾𝗋𝖾</a></b>
 """
 
     SEND_METADATA = """<b>» <u>ᴛᴏ ꜱᴇᴛ ᴄᴜꜱᴛᴏᴍ ᴍᴇᴛᴀᴅᴀᴛᴀ</u></b>
@@ -116,5 +116,5 @@ class Txt(object):
 
 ᴀꜰᴛᴇʀ ᴜsɪɴɢ ᴄᴍᴅ sᴇɴᴅ ᴀɴʏ ᴛᴇxᴛ ɪ ᴡɪʟʟ sᴀᴠᴇ ɪᴛ ᴀs ʏᴏᴜʀ ᴍᴇᴛᴀᴅᴀᴛᴀ
 
-» ᴇx: `@TechifyBots`
+» ᴇx: `@Rkn_Sofi`
 """
